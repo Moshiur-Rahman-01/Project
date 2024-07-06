@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: "Roboto", sans-serif;
+    background-color: antiquewhite;
+}
+.container{
+    background-color: gray;
+    width: 1000px;
+    margin:0 auto;
+    padding: 20px;
+}
+.header-section{
+    
+}
+.header-bio{
+    float: left;
+    padding: 50px;
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 2px solid black;
+    float: left;
+}
+h1,h2,h3,h4,h5,h6{
+    color: white;
+}
+.header-contact{
+    float: right;
+    padding: 50px;
+}
+.header-contact a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+
+}
+.header-contact a:hover{
+    color: rgb(71, 169, 255);
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border: 2px solid black;
+    width: 100%;
+    margin: 20px auto;
+   /* border-bottom: none;*/
+}
+#Personal section{
+
+}
+.content{
+
+}
+.left-div{
+    float: left;
+    width: 30%;
+}
+.right-div{
+    float: left;
+    width: 70%;
+}
+.hr{
+    border: 2px solid black;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+li{
+    margin-left: 20px;
+}
+.footer{
+    background-color: black;
+    height: 50px;
+    width: 100%;
+   
+    text-align: center;
+    padding: 10px;
+    
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+   
+}
+.footer p{
+    color: white;
+    margin-top: 20px;
+    
+}
+.footer a:hover{
+    color: tomato;
+}
+i{
+    color: black;
+}
