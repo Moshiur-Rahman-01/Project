@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 20px;
+}
+h1{
+    
+    text-align: center;
+}
+.container{
+    margin: 0 auto;
+    max-width: 400px;
+    text-align: center;
+    margin-top: 10px;
+    box-shadow: 0 4px 8px 0 gray;
+    transition: 0.5s;
+    font-size: 0px;
+    background-color: #000000;
+    border-radius: 30px;
+    padding: 20px;
+}
+.container:hover{
+    box-shadow: 0 8px 16px 0 gray;
+}
+.result{
+    width: 380px;
+    height: 120px;
+    font-size: 40px;
+    text-align: right;
+    /* font-weight: bold; */
+    padding: 0 5px;
+    letter-spacing: 1px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 30px;
+}
+
+.button{
+    background-color: gray;
+    color: white;
+    border: 1px solid white;
+    width: 80px;
+    height: 40px;
+    margin: 10px 10px;
+    border-radius:40px;
+    font-size: 25px;   
+    border: none;
+}
+.b{
+    background-color: gainsboro;
+    color: black;
+}
+.s{
+    background-color: blueviolet; 
+}
+.p{
+    background-color: yellowgreen; 
+}
+.button:hover{
+    background-color: tomato;
+}
+.e{
+    margin-bottom: 20px;
+}
+.m{
+    width: 175px;
+}
