@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* h1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+} */
+.full{
+    max-width: 500px;
+    margin: 0px auto;
+    margin-top: 50px;
+    text-align: center;
+    background-color: #434056;
+    font-size: 0px;
+    border-radius: 20px;
+    padding: 20px;
+    padding-top: 0px;
+    box-shadow: 8px 10px 5px #d1cee7;
+}
+.calc-head{
+    background-color: black;
+    border-radius: 10px;
+}
+.digit{
+    width: 490px;
+    height: 130px;
+    border-radius: 20px;
+    background-color: #A8A59B;
+    font-size: 50px;
+    text-align: right;
+    box-sizing: border-box;
+    padding-right: 5px;
+    letter-spacing: 2px;
+    border: 0px;
+    margin-bottom: 10px;
+    box-shadow:inset 5px 8px 5px #1b1a1f;
+}
+button{
+    box-sizing: border-box;
+    width: 73.33px;
+    height: 50px;
+    border: 0px;
+    border-radius: 10px;
+    margin: 5px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+.calc-body2 button{
+    width: 90px;
+    height: 60px;
+    background-color: gray;
+    color: white;
+    font-size: 30px;
+}
+#r{
+    background-color: #880f31;
+}
+h2{
+    color: white;
+    font-size: 40px;
+    text-align: left; 
+}
+.cl{
+    height: 100px; 
+    padding: 30px; 
+    padding-right: 0px;
+}
+.headline{
+    float: left;
+    width: 33.33%;
+}
+.a{
+    margin-top: 25px;
+    letter-spacing: 1px;;
+}
+.b{
+    margin-top: 20px;
+    
+}
+p{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
+span{
+    font-size: 20px;
+    letter-spacing: 1px;
+    
+}
+#last{
+    color: rgb(1, 241, 241);
+    font-size: 25px;
+    letter-spacing: 2px;
+    width: 100%;
+    text-align: center;
+}
+button:hover{
+    background-color: tomato;
+}
+#r:hover{
+    background-color: tomato;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.clear{
+    clear: both;
+    height: 20px;
+}
